@@ -24,7 +24,7 @@ Para el desarrollo de este proyecto desplegaremos una LEMP stack en un servidor 
 
 ### Intalación de la base de datos con MariaDB
 
-Una ven instalado MariaDB con el anterior comando, pasaremos a su configuración.
+Una vez instalado MariaDB con el anterior comando, pasaremos a su configuración.
 
 ```bash
 sudo apt install mariadb-server mariadeb-client
